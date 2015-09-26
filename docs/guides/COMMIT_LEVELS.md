@@ -4,7 +4,7 @@ The Angular Material team has a very specific process for change commits.
 
 Our commit process is intentionally restrictive to (a) support the rapid evolution of Angular Material and (b) manage change complexity and coding standards within the framework. 
 
-Angular Material uses a "Pull Request" process to allow team leaders opportunities to maintain code reviews, ensure sanity checks, encourage coding standards, and provide feedbackto the developer. 
+Angular Material uses a "Pull Request" process to allow team leaders opportunities to maintain code reviews, ensure sanity checks, encourage coding standards, and provide feedback to the developer. 
 
 #### General Rules
 
@@ -25,7 +25,7 @@ Angular Material uses a "Pull Request" process to allow team leaders opportuniti
 
 The development team has defined three (3) Github levels of **commit authorization** within [Angular/Material](https://github.com/angular/material/):
 
-* General : 
+* General: 
   * Developers in this group includes any team members not listed under Core or Team Leads below
   * For any and all changes, developers must use a fork of the Angular Material repository 
     * Please do not make or submit any changes from the master branch. 
@@ -43,6 +43,6 @@ The development team has defined three (3) Github levels of **commit authorizati
   * Includes: [Naomi Black](@naomiblack), [Thomas Burleson](@thomasburleson), [Jeremy Elbourn](@jelbourn)
   * May review PRs
     * ThomasBurleson is the primary PR reviewer 
-    * Should perform confirm Karma test pass
+    * Should confirm Karma tests pass
     * Should squash as need
     * Should ensure the PR is closed when the merge finishes.
